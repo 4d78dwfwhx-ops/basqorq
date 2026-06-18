@@ -1,0 +1,88 @@
+&& curl -s -o test-rotor.jpg -w "%{http_code} %{size_doparts.com/images/product/5235646-kit.jpg" && ls -la tesrotor.jpg   && file test-r
+bash: cd: eeuroparts-store/public: No such file or directory
+r -p public/products public/banners && curl -s -L -o pujpg -w "HTTP:%{http_code} SIZE:%{size_download}\n" -H "Windows NT 10.0; Win64; x64)" "https://eeuroparts.com/i.jpg" && file public/products/test-rotor.jpg  
+HTTP:200 SIZE:580197
+public/products/test-rotor.jpg: JPEG image data, Exif standard: [TIFF image data, big-endian, direntries=1, orientation=upper-left], progressive, precision 8, 1500x1500, components 3
+&& \- same@same:/$ cd eeuroparts-store/public &
+> mv products/test-rotor.jpg products/brake-rotor-kit.jpg && \
+> dl() { curl -s -L -o "$1" -w "%{http_code} $1\n" -H ""$2"; }; \: Mozilla/5.0" "
+> dl products/pad-rotor-kit.jpg "https://eeuroparts.comt.jpg" & \oduct/4209834kit
+> dl products/rear-brake-kit.jpg "https://eeuroparts.co24-30-4834648.jpg" & \1382
+> dl products/gasket-set.jpg "https://eeuroparts.com/imo.jpg" & \ct/el_821430_fro
+> dl products/spark-plug.jpg "https://eeuroparts.com/impg" & \oduct/lzfr5ci-11.jp
+> dl products/brake-rotor.jpg "https://eeuroparts.com/ig" & \product/pfl39971.jpg
+> dl banners/premium-parts.jpg "https://eeuroparts.com/%20-%20PREMIUM%20PARTS%20-%20Banner%20copy_8.jpg" & \
+> dl banners/saab.jpg "https://eeuroparts.com/images/content/SAAB.jpg" & \
+> wait; echo "---done---"; ls -la products banners  
+[1] 185
+[2] 186
+[3] 187
+[4] 189
+[5] 191
+[6] 193
+[7] 195
+200 banners/saab.jpg
+200 banners/premium-parts.jpg
+200 products/rear-brake-kit.jpg
+200 products/spark-plug.jpg
+200 products/pad-rotor-kit.jpg
+200 products/gasket-set.jpg
+[1]   Done                    dl products/pad-rotor-kit.jpg "https://eeuroparts.com/images/product/4209834kit.jpg"
+[2]   Done                    dl products/rear-brake-kit.jpg "https://eeuroparts.com/images/product/jhhk-13824-30-4834648.jpg"
+[4]   Done                    dl products/spark-plug.jpg "https://eeuroparts.com/images/product/lzfr5ci-11.jpg"
+[6]-  Done                    dl banners/premium-parts.jpg "https://eeuroparts.com/images/content/eEuroparts%20-%20PREMIUM%20PARTS%20-%20Banner%20copy_8.jpg"
+[7]+  Done                    dl banners/saab.jpg "https://eeuroparts.com/images/content/SAAB.jpg"
+[3]-  Done                    dl products/gasket-set.jpg "https://eeuroparts.com/images/product/el_821430_fro.jpg"
+200 products/brake-rotor.jpg
+[5]+  Done                    dl products/brake-rotor.jpg "https://eeuroparts.com/images/product/pfl39971.jpg"
+---done---
+banners:
+total 232
+drwxr-xr-x. 2 same same     47 Jun 18 10:24 .
+drwxr-xr-x. 4 same same     37 Jun 18 10:23 ..
+-rw-r--r--. 1 same same 151796 Jun 18 10:24 premium-parts.jpg
+-rw-r--r--. 1 same same  79571 Jun 18 10:24 saab.jpg
+
+products:
+total 2120
+drwxr-xr-x. 2 same same    151 Jun 18 10:24 .
+drwxr-xr-x. 4 same same     37 Jun 18 10:23 ..
+-rw-r--r--. 1 same same 580197 Jun 18 10:23 brake-rotor-kit.jpg
+-rw-r--r--. 1 same same 994542 Jun 18 10:24 brake-rotor.jpg
+-rw-r--r--. 1 same same 260620 Jun 18 10:24 gasket-set.jpg
+-rw-r--r--. 1 same same  67095 Jun 18 10:24 pad-rotor-kit.jpg
+-rw-r--r--. 1 same same 215478 Jun 18 10:24 rear-brake-kit.jpg
+-rw-r--r--. 1 same same  42774 Jun 18 10:24 spark-plug.jpg
+&& \- same@same:/$ cd eeuroparts-store/public &
+> dl() { curl -s -L -o "$1" -w "%{http_code} $1\n" -H ""$2"; }; \: Mozilla/5.0" "
+> dl products/oil-change-kit.jpg "https://eeuroparts.cokit.jpg" & \duct/5917130-k
+> dl products/control-arm.jpg "https://eeuroparts.com/ig" & \product/rk642644.jpg
+> dl products/control-arm-kit.jpg "https://eeuroparts.c-kit.jpg" & \duct/5225839-
+> dl products/water-pump.jpg "https://eeuroparts.com/va0392020039.jpg" & \8.568/0
+> wait; echo "---done---"; ls -la products | grep -v '^total'  
+[1] 226
+[2] 227
+[3] 228
+[4] 230
+200 products/water-pump.jpg
+200 products/control-arm.jpg
+200 products/oil-change-kit.jpg
+[1]   Done                    dl products/oil-change-kit.jpg "https://eeuroparts.com/images/product/5917130-kit.jpg"
+[2]   Done                    dl products/control-arm.jpg "https://eeuroparts.com/images/product/rk642644.jpg"
+[4]+  Done                    dl products/water-pump.jpg "https://eeuroparts.com/var/images/product/568.568/0392020039.jpg"
+200 products/control-arm-kit.jpg
+[3]+  Done                    dl products/control-arm-kit.jpg "https://eeuroparts.com/images/product/5225839-kit.jpg"
+---done---
+drwxr-xr-x. 2 same same   4096 Jun 18 10:29 .
+drwxr-xr-x. 4 same same     37 Jun 18 10:23 ..
+-rw-r--r--. 1 same same 580197 Jun 18 10:23 brake-rotor-kit.jpg
+-rw-r--r--. 1 same same 994542 Jun 18 10:24 brake-rotor.jpg
+-rw-r--r--. 1 same same 214907 Jun 18 10:29 control-arm-kit.jpg
+-rw-r--r--. 1 same same  89670 Jun 18 10:29 control-arm.jpg
+-rw-r--r--. 1 same same 260620 Jun 18 10:24 gasket-set.jpg
+-rw-r--r--. 1 same same 250611 Jun 18 10:29 oil-change-kit.jpg
+-rw-r--r--. 1 same same  67095 Jun 18 10:24 pad-rotor-kit.jpg
+-rw-r--r--. 1 same same 215478 Jun 18 10:24 rear-brake-kit.jpg
+-rw-r--r--. 1 same same  42774 Jun 18 10:24 spark-plug.jpg
+-rw-r--r--. 1 same same  15284 Jun 18 10:29 water-pump.jpg
+✔- 
